@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800px" height="600px" viewBox="0 0 800 600" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Fitness Illustration</title>
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle fill="#E8F5E9" cx="400" cy="300" r="250"></circle>
+        <g transform="translate(250.000000, 150.000000)">
+            <!-- Dumbbell -->
+            <rect fill="#424242" x="50" y="140" width="250" height="20" rx="10"></rect>
+            <circle fill="#616161" cx="50" cy="150" r="30"></circle>
+            <circle fill="#616161" cx="300" cy="150" r="30"></circle>
+            <circle fill="#9E9E9E" cx="50" cy="150" r="20"></circle>
+            <circle fill="#9E9E9E" cx="300" cy="150" r="20"></circle>
+            
+            <!-- Apple -->
+            <circle fill="#F44336" cx="100" cy="70" r="25"></circle>
+            <path d="M100,45 C105,35 115,40 110,50" stroke="#4CAF50" stroke-width="3" stroke-linecap="round"></path>
+            
+            <!-- Water Bottle -->
+            <rect fill="#2196F3" x="150" y="50" width="30" height="80" rx="15"></rect>
+            <rect fill="#BBDEFB" x="155" y="55" width="20" height="70" rx="10"></rect>
+            <rect fill="#1976D2" x="155" y="40" width="20" height="15" rx="5"></rect>
+            
+            <!-- Measuring Tape -->
+            <path d="M200,100 C240,80 260,120 300,100" stroke="#FFC107" stroke-width="10" stroke-linecap="round"></path>
+            <rect fill="#FFECB3" x="195" y="95" width="10" height="10"></rect>
+            <rect fill="#FFECB3" x="295" y="95" width="10" height="10"></rect>
+            
+            <!-- Heart Rate -->
+            <path d="M50,250 L70,250 L80,230 L90,270 L100,230 L110,270 L120,250 L140,250" stroke="#F44336" stroke-width="3" stroke-linecap="round"></path>
+            
+            <!-- Stopwatch -->
+            <circle fill="#EEEEEE" cx="200" cy="250" r="30"></circle>
+            <circle fill="#FAFAFA" cx="200" cy="250" r="25"></circle>
+            <line x1="200" y1="250" x2="200" y2="230" stroke="#424242" stroke-width="2" stroke-linecap="round"></line>
+            <line x1="200" y1="250" x2="215" y2="250" stroke="#F44336" stroke-width="2" stroke-linecap="round"></line>
+            <circle fill="#424242" cx="200" cy="250" r="3"></circle>
+            <rect fill="#424242" x="195" y="215" width="10" height="5" rx="2"></rect>
+            
+            <!-- Sneaker -->
+            <path d="M270,250 C290,240 310,245 320,260 C330,270 300,280 280,280 C260,280 250,270 250,260 C250,250 260,255 270,250 Z" fill="#673AB7"></path>
+            <path d="M280,250 C290,245 300,248 305,255" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round"></path>
+            <path d="M270,280 L270,270 L280,270 L280,280" stroke="#512DA8" stroke-width="2"></path>
+        </g>
+    </g>
+</svg>
